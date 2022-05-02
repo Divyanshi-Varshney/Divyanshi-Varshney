@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Divyanshi-Varshney
 - 🌱 I’m currently learning HTML5,CSS,etc
 - 📫 How to reach me divyanshi.varshney_bca21@gla.ac.in
- <img src="https://user-images.githubusercontent.com/92569523/166308336-db61840e-7b8d-41d0-a719-03c2baa9b7f3.gif" width="400" height="400" align="left">
+ <img src="https://user-images.githubusercontent.com/92569523/166308336-db61840e-7b8d-41d0-a719-03c2baa9b7f3.gif" width="400" height="380" align="left">
 
 
 <!---
