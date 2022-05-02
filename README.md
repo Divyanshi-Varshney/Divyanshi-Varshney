@@ -19,3 +19,5 @@ You can click the Preview link to take a look at your changes.
 
 <a href=”https://www.linkedin.com/in/divyanshi-varshney-3bb27b225/"><img src="https://user-images.githubusercontent.com/92569523/166313624-6448427e-f6c7-4df1-98e1-dd2e2eb0c6d6.png",align="left",width="21px">
 </a>
+
+<a href=”https://www.linkedin.com/in/divyanshi-varshney-3bb27b225/"><img align=”left” src=”https://raw.githubusercontent.com/Divyanshi-Varshney/Divyanshi-Varshney/main/images/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
