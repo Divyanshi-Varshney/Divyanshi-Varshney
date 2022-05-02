@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img src="https://user-images.githubusercontent.com/92569523/166308336-db61840e-7b8d-41d0-a719-03c2baa9b7f3.gif" width=500 height="600">
+<img src="https://user-images.githubusercontent.com/92569523/166308336-db61840e-7b8d-41d0-a719-03c2baa9b7f3.gif" width=500 height="600" align="right">
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Divyanshi-Varshney)](https://github.com/Divyanshi-Varshney)
 
